@@ -1,2 +1,2 @@
 # actions
-testing new actions feature of github
+Testing new [actions feature](https://github.com/features/actions) of github.
