@@ -4,7 +4,7 @@
   "description": "testing actions",
   "main": "index.js",
   "scripts": {
-    "test": "npm -v"
+    "test": "node -v"
   },
   "repository": {
     "type": "git",

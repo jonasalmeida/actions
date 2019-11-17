@@ -1,1 +1,1 @@
-console.log(`hello actions at ${Date()})
+console.log(`hello actions at ${Date()}`)
