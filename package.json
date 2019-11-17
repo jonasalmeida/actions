@@ -1,0 +1,19 @@
+{
+  "name": "actions",
+  "version": "1.0.0",
+  "description": "testing actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonasalmeida/actions.git"
+  },
+  "author": "Jonas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonasalmeida/actions/issues"
+  },
+  "homepage": "https://github.com/jonasalmeida/actions#readme"
+}
